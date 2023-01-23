@@ -14,12 +14,12 @@
       "API_KEY": {
         "description": "Binance API key generated in the Binance account setup stage",
         "required": true,
-		"value": "USDT"
+		"value": "vmPUZE6mv9SD5VNHk4HlWFsOr6aKE2zvsw0MuIgwCIPy6utIco14y7Ju91duEh8A"
       },
       "API_SECRET_KEY": {
         "description": "Binance secret key generated in the Binance account setup stage",
         "required": true,
-		"value": "USDT"
+		"value": "NhqPtmdSJYdKjVHjA7PZj4Mge3R5YNiP1e3UZjInClVN65XAbvqqM6A7H5fATj0j"
       },
       "CURRENT_COIN_SYMBOL": {
         "description": "This is your starting coin of choice. This should be one of the coins from your supported coin list. If you want to start from your bridge currency, leave this field empty - the bot will select a random coin from your supported coin list and buy it",
